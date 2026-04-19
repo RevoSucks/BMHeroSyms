@@ -536,7 +536,7 @@ functions = [
     { name = "func_80004458", vram = 0x80004458, size = 0x44 },
     { name = "alSynAddPlayer", vram = 0x8003EA30, size = 0x50 },
     { name = "func_8000CF40", vram = 0x8000CF40, size = 0x20 },
-    { name = "malloc", vram = 0x8002FC34, size = 0x754 },
+    { name = "malloc_game", vram = 0x8002FC34, size = 0x754 },
     { name = "func_80001810", vram = 0x80001810, size = 0x40 },
     { name = "func_80025E8C", vram = 0x80025E8C, size = 0x248 },
     { name = "func_8002894C", vram = 0x8002894C, size = 0x514 },
