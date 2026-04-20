@@ -5308,6 +5308,7 @@ functions = [
     { name = "func_80339150_unk_bin_51", vram = 0x80339150, size = 0xE4 },
     { name = "func_80339628_unk_bin_51", vram = 0x80339628, size = 0xEC },
     { name = "func_80339714_unk_bin_51", vram = 0x80339714, size = 0x10 },
+    { name = "func_80339724_unk_bin_51", vram = 0x80339724, size = 0x10 },
     { name = "func_8033882C_unk_bin_51", vram = 0x8033882C, size = 0x10C },
 ]
 
