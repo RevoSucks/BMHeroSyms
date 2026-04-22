@@ -70,7 +70,7 @@ functions = [
     { name = "Get_ObjIdx_ByPos", vram = 0x80026E58, size = 0xB8 },
     { name = "func_8001B44C", vram = 0x8001B44C, size = 0x60 },
     { name = "func_8001FDF4", vram = 0x8001FDF4, size = 0x18C },
-    { name = "free", vram = 0x800309D0, size = 0x88 },
+    { name = "free_game", vram = 0x800309D0, size = 0x88 },
     { name = "func_8000124C", vram = 0x8000124C, size = 0x64 },
     { name = "alSeqFileNew", vram = 0x80033B18, size = 0x40 },
     { name = "func_80003FA0", vram = 0x80003FA0, size = 0x40 },
